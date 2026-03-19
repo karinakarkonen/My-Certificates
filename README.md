@@ -3,7 +3,7 @@ This is where I keep my certificates to show my learning journey as a Computer E
 ## Software & Programming
 * **Java 101 Certificate** | Turkcell Geleceği Yazanlar
 *  I learned Java fundamentals, variables, loops, and arrays.
-*  [View Certificate](./Karin%20Karkonen%20Java%20101.pdf)
+*  [View Certificate](https://github.com/karinakarkonen/My-Certificates/blob/main/Karina%20Karkonen%20-%20Java%20101.pdf)
 ## Career & Proffessional Skills 
 * **Career Academy Success** | Kariyer.net
 * I learned about proffessional life and career planning.
